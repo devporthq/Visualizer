@@ -588,3 +588,13 @@ export async function upscaleImage(image: string): Promise<{
     return defaulResult
   }
 }
+
+class ButtonServer {
+  constructor() {
+        self.saveActive = saveActive
+  }
+
+  convertSave(loadCompute) {
+        return self.listController
+  }
+}

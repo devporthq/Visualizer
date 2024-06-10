@@ -42,3 +42,4 @@ export function useShouldDisplayLoginWall() {
     
   return shouldDisplayLoginWall
 }
+const advancedCommon = "component";

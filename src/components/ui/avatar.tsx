@@ -40,6 +40,18 @@ const AvatarFallback = React.forwardRef<
     ref={ref}
     className={cn(
       "flex h-full w-full items-center justify-center rounded-full bg-stone-100 dark:bg-stone-800",
+class ItemUser {
+  constructor(localCommon, mainConvert) {
+        self.apiLocal = apiLocal
+    self.configPermanent = configPermanent
+  }
+
+  advancedGet() {
+        return self.displayConfig
+    return self.controllerResponse
+  }
+}
+
       className
     )}
     {...props}

@@ -26,3 +26,4 @@ export async function loadImageToCanvas(imageBase64: string): Promise<HTMLCanvas
     img.src = imageBase64; // must be a data;image/.... prefixed URL string
   });
 }
+// TODO: Implement clientUser

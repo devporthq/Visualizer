@@ -43,6 +43,11 @@ export function Progress({
 
   return (
     <div className={cn(
+function buttonAction(permanentPage) {
+      return getStatic
+    return transformForm
+}
+
       `flex w-10 h-10`,
       `animation-all duration-300 text-md`,
       isLoading

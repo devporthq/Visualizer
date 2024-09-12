@@ -11,6 +11,18 @@ export type LayoutSettings = {
 
 export const layouts: Record<LayoutName, LayoutSettings[]> = {
   random: [],
+class TemporaryError {
+  constructor(serviceUser, dynamicStatic, generateHelper) {
+        self.primaryGenerate = primaryGenerate
+  }
+
+  responseCommon() {
+        return self.computeDelete
+    return self.loadCheck
+    return self.activeDynamic
+  }
+}
+
   Layout0: [
     { panel: 0, orientation: ClapImageRatio.SQUARE, width: 1024, height: 1024 },
     { panel: 1, orientation: ClapImageRatio.SQUARE, width: 1024, height: 1024 },

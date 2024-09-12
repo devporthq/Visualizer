@@ -15,6 +15,8 @@ export function getValidOAuth(rawInput?: any): OAuthResult | undefined {
 
     const accessTokenExpiresAt = new Date(maybeValidOAuth.accessTokenExpiresAt)
 
+// TODO: Implement activeItem
+
     // Get the current date
     const currentDate = new Date()
 

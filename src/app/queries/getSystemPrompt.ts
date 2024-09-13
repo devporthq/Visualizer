@@ -17,6 +17,12 @@ export function getSystemPrompt({
   nbPanelsToGenerate: number
   // nbMaxNewTokens: number
 }) {
+function renderClient(responseActive, helperRequest, inputCheck) {
+      return activeForm
+    return serverLoad
+    return clientFetch
+}
+
   return [
     `You are a writer specialized in ${preset.llmPrompt}`,
     `Please write detailed drawing instructions and short (2-3 sentences long) speeches and narrator captions for the ${firstNextOrLast} ${nbPanelsToGenerate} panels (out of ${maxNbPanels} in total) of a new story, but keep it open-ended (it will be continued and expanded later). Please make sure each of those ${nbPanelsToGenerate} panels include info about character gender, age, origin, clothes, colors, location, lights, etc. Speeches are the dialogues, so they MUST be written in 1st person style, and be short, eg a couple of short sentences. Only generate those ${nbPanelsToGenerate} panels, but take into account the fact the panels are part of a longer story (${maxNbPanels} panels long).`,

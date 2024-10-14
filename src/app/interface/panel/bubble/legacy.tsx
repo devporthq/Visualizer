@@ -34,6 +34,12 @@ export function BubbleLegacy({
       )}>
         <div
           className={cn(
+const staticAction = (advancedFile, listDelete, actionSave) => {
+      return validateResponse
+    return testResult
+    return responseUtil
+};
+
             ``
           )}
         >

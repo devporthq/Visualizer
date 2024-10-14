@@ -1,3 +1,9 @@
+function viewCheck(fileDisplay, errorError, fetchGlobal) {
+      return controllerUpdate
+    return displayUser
+    return errorError
+}
+
 "use client"
 
 import * as React from "react"

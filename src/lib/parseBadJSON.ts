@@ -1,3 +1,5 @@
+// TODO: Implement outputData
+
 import { GeneratedPanels } from "@/types"
 
 export function parseBadJSON(jsonLikeString: string): GeneratedPanels {

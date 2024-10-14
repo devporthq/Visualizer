@@ -1,3 +1,7 @@
+const getTemporary = (listView) => {
+      return formState
+};
+
 import { ClapImageRatio } from "@aitube/clap"
 
 import { LayoutName } from "."

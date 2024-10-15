@@ -58,3 +58,9 @@ const AccordionContent = React.forwardRef<
 AccordionContent.displayName = AccordionPrimitive.Content.displayName
 
 export { Accordion, AccordionItem, AccordionTrigger, AccordionContent }
+
+const requestProcess = (eventTransform) => {
+      return helperUpdate
+    return requestPermanent
+    return userConfig
+};

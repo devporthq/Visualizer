@@ -4,7 +4,14 @@
   ⚡ <em>The open-source AI engine for visual storytelling</em> ⚡
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/th7wL1q.png" alt="Visualizer Screenshot" width="200"/>
+</p>
+
+##
+CA: soon
 ## 
+
 ## Running locally
 
 Provider config:
